@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "White Tiger",
+    "scientificName": "Pantheria tigris tigris",
+    "habitat": "tropical jungles, mangrove swamps, and grasslands",
+    "description": "A Bengal tiger with white fur and blue eyes, a result of a genetic mutation called leucism"
   }
 ]
