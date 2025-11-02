@@ -34,5 +34,11 @@
     "scientificName": "Pantheria tigris tigris",
     "habitat": "tropical jungles, mangrove swamps, and grasslands",
     "description": "A Bengal tiger with white fur and blue eyes, a result of a genetic mutation called leucism"
+  },
+  {
+    "commonName": "Brown-throated three-toed sloth",
+    "scientificName": "Bradypus variegatus",
+    "habitat": "tropical and semi-deciduous forests, cloud forests, and lowland swamps",
+    "description": "A medium-sized mammal with grayish-brown fur, a distinctive brown patch on its throat and face, and a mottled appearance"
   }
 ]
